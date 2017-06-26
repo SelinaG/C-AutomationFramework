@@ -1,0 +1,9 @@
+.vs/testAutomation/v15/.suo
+*.dll
+*/debug/*
+*/bin/*
+*.pdb
+*/obj/Debug/*
+*.props
+*.targets
+packages/*
